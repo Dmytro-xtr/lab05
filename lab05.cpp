@@ -2,3 +2,8 @@
 #include <stdio.h>
 #include <math.h>
 #include <windows.h>
+
+int main() {
+
+    float x;
+    float y;
